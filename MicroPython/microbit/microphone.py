@@ -4,7 +4,6 @@
 be used to respond to sound. The microphone input is located on the front of the board
 alongside a microphone activity LED, which is lit when the microphone is in use."""
 
-
 # Sound events
 
 """ The microphone can respond to a pre-defined set of sound events that are based on the 
